@@ -1,8 +1,5 @@
-" Copyright © 2012 Martin Ueding <dev@martin-ueding.de>
-
-" This script is placed in the public domain via the CC0_ license.
-"
-" _CC0: https://creativecommons.org/publicdomain/zero/1.0/
+" Copyright © 2012-2013 Martin Ueding <dev@martin-ueding.de>
+" Licensed under The GNU Public License Version 2 (or later)
 
 nnoremap <buffer> <leader>h1 yypVr#yykP
 nnoremap <buffer> <leader>h2 yypVr*yykP
